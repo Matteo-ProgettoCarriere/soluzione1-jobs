@@ -1,5 +1,7 @@
 # Progretto Carriere Jobs
 
+Noi siamo una manica di stronzi
+
 ## Job Listing
 
 * [Mobile Developer - Ghisalba (BG)](https://github.com/Matteo-ProgettoCarriere/soluzione1-jobs/issues/1)
