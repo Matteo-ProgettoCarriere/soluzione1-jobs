@@ -1,4 +1,4 @@
-# Progretto Carriere Jobs
+# Progetto Carriere Jobs
 
 ## Job Listing
 
